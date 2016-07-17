@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/CodeForMarin/Project-Ideas.png?label=ready&title=Ready)](https://waffle.io/CodeForMarin/Project-Ideas)
 # Project-Ideas
 Have an idea for a Project?  Post it on the [issues](https://github.com/codeformarin/Project-Ideas/issues) page!
 
